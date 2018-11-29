@@ -1,0 +1,3 @@
+aiohttp
+pymongo
+PyJWT==1.4.0
